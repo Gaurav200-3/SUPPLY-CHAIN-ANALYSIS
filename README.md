@@ -1,4 +1,4 @@
-# SUPPY-CHAIN-ANALYSIS
+# SUPPLY-CHAIN-ANALYSIS
 <img width="1369" height="752" alt="image" src="https://github.com/user-attachments/assets/9060a019-694e-46c4-9e45-7e9d63f0e0c3" />
 
 # This dashboard is a Retail Supply Chain & Sales Analysis report. It’s designed to give a complete view of revenue, operations, and logistics performance—from high-level KPIs down to product and shipping insights.
